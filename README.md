@@ -19,5 +19,7 @@ For Contributors:
 
 We are fostering a collaboration between Netskope and the security community and explicitly encourage all security teams to upload and share their own effective prompts. Because this library spans multiple security departments, we need experts from each team to contribute and validate content. We envision the community sharing their best techniques to help ensure the prompts remain accurate, effective, and world-class.
 
-- All of our prompts are structured using the prompt sharing framework, which can be found here: https://github.com/jrandle-alt/Prompt-Sharing-Framework
+- All of our prompts are structured using the prompt sharing framework, which can be found here: https://github.com/netskopeoss/Prompt-Sharing-Framework
+
+- 
   
