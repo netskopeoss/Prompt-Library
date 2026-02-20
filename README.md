@@ -5,7 +5,7 @@ The purpose of this project is to open-source a comprehensive library of pre-val
 
 Purpose of Prompt Library:
 
-Unlike our framework, this repository provides actionable text inputs that security analysts across any department can use to streamline daily operations. Its purpose is to act as a direct productivity booster for customers, allowing them to visit the repository, find a specific use case, and implement it immediately by simply copying, pasting, and executing. These "recipes" help anyone get more value out of the models and tools they use on a daily basis.
+Unlike our framework, this repository provides actionable text inputs that security analysts across any department can use to streamline daily operations. Its purpose is to act as a direct productivity booster, allowing them to visit the repository, find a specific use case, and implement it immediately by simply copying, pasting, and executing. These "recipes" help anyone get more value out of the models and tools they use on a daily basis.
 
 What problem are we trying to solve:
 
@@ -17,9 +17,12 @@ Our goal is to drive widespread adoption by providing free, open-source "recipes
 
 For Contributors:
 
-We are fostering a collaboration between Netskope and the security community and explicitly encourage all security teams to upload and share their own effective prompts. Because this library spans multiple security departments, we need experts from each team to contribute and validate content. We envision the community sharing their best techniques to help ensure the prompts remain accurate, effective, and world-class.
+We are fostering a collaboration between Netskope and the security community and explicitly encourage all security teams to upload and share their own effective prompts. Because this library spans multiple security departments, we need experts from each team to contribute and validate content. We envision the community sharing best practices to help ensure prompts remain accurate, effective, and free of company-sensitive or confidential information.
 
 - All of our prompts are structured using the prompt sharing framework, which can be found here: https://github.com/netskopeoss/Prompt-Sharing-Framework
 
-- 
-  
+
+Policy Notice: 
+
+Keep it secure! 🔒 Do NOT upload prompts containing or that rely on confidential, internal-only, or sensitive data. Ensure all inputs are free of Netskope confidential information before submitting as it will not be accepted or allowed. 
+
